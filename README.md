@@ -56,4 +56,4 @@ Por <a href="https://github.com/dayanenubia/deyvisonogueira.git" > Deyvison Nogu
  👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deyvison_Nogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvisonogueira)](https://www.linkedin.com/in/deyvisonogueira) 
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=deyvison@gmail.com)](deyvisonogueira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=deyvison@gmail.com)](mailto:deyvisonogueira@gmail.com)

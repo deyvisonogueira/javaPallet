@@ -15,7 +15,7 @@
 <hr>
 
 <h3 aling="right" <a name="features"></a> 
-     Features
+     Recursos
 </h3>
 
 - ✔️ Adicionar produtos

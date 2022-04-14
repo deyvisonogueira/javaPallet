@@ -52,7 +52,7 @@ Abra o NetBeans ou qualquer outro programa compativél com o projeto e baixe os 
    Autor
 </h3>
 
-Por <a href="https://github.com/dayanenubia/deyvisonogueira.git" > Deyvison Nogueira </a> </br> 
+Por <a href="https://github.com/deyvisonogueira/deyvisonogueira.git" > Deyvison Nogueira </a> </br> 
  👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deyvison_Nogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvisonogueira)](https://www.linkedin.com/in/deyvisonogueira) 
